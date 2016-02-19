@@ -1,6 +1,8 @@
 # 徵才管道
 [Inside Job](https://jobs.inside.com.tw/categories/5-mobile-apps-developer)
 
+[mit.jobs](http://mit.jobs/)
+
 [Ptt的Soft_Job版(徵才文有嚴格規定，不符會刪文)](telnet://ptt.cc)
 
 [iOS Dev Club](https://www.facebook.com/groups/iostw/)
